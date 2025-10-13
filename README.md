@@ -1,3 +1,3 @@
-# Проектная работа «Оно тебе надо»
+# Проект «Оно тебе надо»
 
-https://github.com/GnMike/ono-tebe-nado/tree/main
+https://github.com/mgodun/ono-tebe-nado

@@ -1,3 +1,3 @@
 # Проект «Оно тебе надо»
 
-https://github.com/mgodun/ono-tebe-nado
+<https://github.com/mgodun/ono-tebe-nado>
